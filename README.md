@@ -2,7 +2,7 @@
 
 **Overview**
 
-This capstone project is a game that on the frontend end will focus on careful conponent and function useage with several algos to calculate various aspects of the game. On the backend will focus on a clean user and user owner models to effectively save progress of the user.
+This is a cyperpunk themed text based game that will allow the user to go on an adventure to defeat a boss or two. This focuses on allowing muilitple ways to get through something or fight someone. There is no wrong way, just different paths.
 
 **Backend Models**
 
