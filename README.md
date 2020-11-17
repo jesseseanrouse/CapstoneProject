@@ -32,6 +32,7 @@ Not all properties of the model will be used but are included if time permits us
  -score:
  
  **MVP**
+ 
  -Home page with login
  -about page
  -guide/instruction page
@@ -44,6 +45,7 @@ Not all properties of the model will be used but are included if time permits us
  -some easter eggs
  
  **Post MVP Part 1**
+ 
  -medium mode
  -Modding Equipment
  -smelter/forge area
@@ -51,6 +53,7 @@ Not all properties of the model will be used but are included if time permits us
  -more easter eggs
  
  **Post MVP Part 2**
+ 
  -Hard Mode
  -Modding Character
  -'crusher' area
@@ -58,6 +61,7 @@ Not all properties of the model will be used but are included if time permits us
  -even more easter eggs
  
  **Post MVP Part 3**
+ 
  -story depth
  -Factory area
  -Final Boss
