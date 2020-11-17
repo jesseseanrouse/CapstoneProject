@@ -28,6 +28,8 @@ Not all properties of the model will be used but are included if time permits us
  -game_ver
  -secret_arr
  -quests_arr
+ -time:
+ -score:
  
  **MVP**
  -Home page with login
@@ -59,4 +61,6 @@ Not all properties of the model will be used but are included if time permits us
  -story depth
  -Factory area
  -Final Boss
+ -score system
+ -make a new model on the backend for high scores
  -I think I'm going to need more easter eggs
