@@ -5,6 +5,7 @@
 This is a cyperpunk themed text based game that will allow the user to go on an adventure to defeat a boss or two. This focuses on allowing muilitple ways to get through something or fight someone. There is no wrong way, just different paths.
 
 **User Experience**
+
 When the user gets onto the site, the will see a login screen that has the option to log in. From here they can navagate to see my about page or information about the game and how it works. They can then log in if they have already signed up or sign up. They will then see the character screen which has a list of characters they have created with the ability to create a new character. When they create a character it will lead straight into the game. They will read a description and will be presented with choices on how to proceed. This will continue until they either save thier progress, beat the game, or close the game.
 
 **Backend Models**
