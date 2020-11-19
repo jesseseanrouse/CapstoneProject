@@ -99,7 +99,7 @@ Will have more conponents depending on needs of the App. These are general aspec
 | --- | :---: |  :---: | :---: |
 | App | H | 1 hrs| .75 hrs |
 | Log-in | H | 1 hr| hrs |
-| Nav-Bar | H | .5 hrs |  hrs |
+| Nav-Bar | H | .5 hrs |  .5 hrs |
 | About | H | 2 hrs | hrs |
 | Information | L | 4 hrs | hrs |
 | List of Characters | M | 2 hr| hrs |
