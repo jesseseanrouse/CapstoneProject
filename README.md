@@ -97,7 +97,7 @@ Will have more conponents depending on needs of the App. These are general aspec
 
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: |
-| App | H | 1 hrs|  hrs |
+| App | H | 1 hrs| .75 hrs |
 | Log-in | H | 1 hr| hrs |
 | Nav-Bar | H | .5 hrs |  hrs |
 | About | H | 2 hrs | hrs |
