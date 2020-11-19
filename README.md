@@ -92,7 +92,7 @@ Will have more conponents depending on needs of the App. These are general aspec
 | Backend | Will host data and some functions |
 
 | Component | Priority | Estimated Time | Actual Time |
-| --- | :---: |  :---: | :---: | :---: |
+| --- | :---: |  :---: | :---: |
 | App | H | 1 hrs|  hrs |
 | Log-in | H | 1 hr| hrs |
 | Nav-Bar | H | .5 hrs |  hrs |
@@ -118,13 +118,16 @@ Will have more conponents depending on needs of the App. These are general aspec
 
 | Objective | Day | Actual Day |
 | --- | :---: |  :---: |
-| Gatsby Reasearch | - 2 | 1 |
-| Component Setup | 1 | 1 |
-| Balance Functionality | 2 | x |
-| Stoich Functionality | 3 | x |
-| SCSS for Site | 4| x |
-| Wiki | 4 | x |
-|Bug Fixing/try to break | 5 | 5 |
+| Firebase DB Setup | 1 |  |
+| Basic Structure for Frontend App | 2 |  |
+| Create Character | 3 |  |
+| Basic Scrapyard | 4 |  |
+| Battle Mechanics | 5 |  |
+| Powerplant | 7 |  |
+| Give Thanks | 8 |  |
+| First Boss | 9 |  |
+| Testing and Bug fixing | 10 |  |
+| Present | 12 |  |
 
 **Additional Libraries**
 -React
