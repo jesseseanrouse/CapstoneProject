@@ -103,7 +103,7 @@ Will have more conponents depending on needs of the App. These are general aspec
 | About | H | 2 hrs | hrs |
 | Information | L | 4 hrs | hrs |
 | List of Characters | M | 2 hr| hrs |
-| Create Character | H | 3 hr| hrs |
+| Create Character | H | 3 hr| 3 hrs |
 | Tutorial/Start | M | 2 hr| hrs |
 | Scrapyard | H | 10 hr| hrs |
 | Power Plant | H | 20 hr| hrs |
