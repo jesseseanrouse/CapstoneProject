@@ -123,8 +123,8 @@ Will have more conponents depending on needs of the App. These are general aspec
 | Objective | Day | Actual Day |
 | --- | :---: |  :---: |
 | Firebase DB Setup | 1 |  |
-| Basic Structure for Frontend App | 2 |  |
-| Create Character | 3 |  |
+| Basic Structure for Frontend App | 2 | 1 |
+| Create Character | 3 | 2 |
 | Basic Scrapyard | 4 |  |
 | Battle Mechanics | 5 |  |
 | Powerplant | 7 |  |
