@@ -125,7 +125,7 @@ Will have more conponents depending on needs of the App. These are general aspec
 | Firebase DB Setup | 1 |  |
 | Basic Structure for Frontend App | 2 | 1 |
 | Create Character | 3 | 2 |
-| Basic Scrapyard | 4 | 4 |
+| Basic Scrapyard | 4 | 6 |
 | Battle Mechanics | 5 |  |
 | Powerplant | 7 | 7 |
 | Give Thanks | 8 |  |
