@@ -98,26 +98,26 @@ Will have more conponents depending on needs of the App. These are general aspec
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: |
 | App | H | 1 hrs| .75 hrs |
-| Log-in | H | 1 hr| hrs |
+| Log-in | H | 1 hr| 2 hrs |
 | Nav-Bar | H | .5 hrs |  .5 hrs |
 | About | H | 2 hrs | hrs |
 | Information | L | 4 hrs | hrs |
-| List of Characters | M | 2 hr| hrs |
+| List of Characters | M | 2 hr| 2 hrs |
 | Create Character | H | 3 hr| 3 hrs |
-| Tutorial/Start | M | 2 hr| hrs |
-| Scrapyard | H | 10 hr| hrs |
-| Power Plant | H | 20 hr| hrs |
-| Smelter | L | 12 hr| hrs |
-| Crusher | L | 8 hr| hrs |
-| Factory | L | 12 hr| hrs |
+| Tutorial/Start | M | 2 hr| 2 hrs |
+| Scrapyard | H | 10 hr| 5 hrs |
+| Power Plant | H | 20 hr| 8 hrs |
+| Smelter | L | 12 hr| x hrs |
+| Crusher | L | 8 hr| x hrs |
+| Factory | L | 12 hr| x hrs |
 | Battler | M | 4 hr| hrs |
 | First Boss | H | 4 hr| hrs |
 | Second Boss | L | 3 hr| hrs |
 | Third Boss | L | 3 hr| hrs |
 | Final Boss | L | 6 hr| hrs |
 | Backend | L | 3 hr| hrs |
-| Backend: User Data | L | 3 hr| hrs |
-| Backend: Functions | L | 3 hr| hrs |
+| Backend: User Data | L | 3 hr| 10 hrs |
+| Backend: Functions | L | 3 hr| x hrs |
 | Total | H | 106.5 hrs|  hrs |
 
 | Objective | Day | Actual Day |
@@ -125,9 +125,9 @@ Will have more conponents depending on needs of the App. These are general aspec
 | Firebase DB Setup | 1 |  |
 | Basic Structure for Frontend App | 2 | 1 |
 | Create Character | 3 | 2 |
-| Basic Scrapyard | 4 |  |
+| Basic Scrapyard | 4 | 4 |
 | Battle Mechanics | 5 |  |
-| Powerplant | 7 |  |
+| Powerplant | 7 | 7 |
 | Give Thanks | 8 |  |
 | First Boss | 9 |  |
 | Testing and Bug fixing | 10 |  |
