@@ -8,6 +8,11 @@ This is a cyperpunk themed text based game that will allow the user to go on an 
 
 When the user gets onto the site, the will see a login screen that has the option to log in. From here they can navagate to see my about page or information about the game and how it works. They can then log in if they have already signed up or sign up. They will then see the character screen which has a list of characters they have created with the ability to create a new character. When they create a character it will lead straight into the game. They will read a description and will be presented with choices on how to proceed. This will continue until they either save thier progress, beat the game, or close the game.
 
+**Links**
+
+- github: https://github.com/jesseseanrouse/cyberstone/
+- live site: https://cranky-ptolemy-d8636a.netlify.app/
+
 **Backend Models**
 
 Not all properties of the model will be used but are included if time permits usage
