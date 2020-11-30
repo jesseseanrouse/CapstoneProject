@@ -100,25 +100,27 @@ Will have more conponents depending on needs of the App. These are general aspec
 | App | H | 1 hrs| .75 hrs |
 | Log-in | H | 1 hr| 2 hrs |
 | Nav-Bar | H | .5 hrs |  .5 hrs |
-| About | H | 2 hrs | hrs |
-| Information | L | 4 hrs | hrs |
+| About | H | 2 hrs | 1 hrs |
+| Information | L | 4 hrs | 1 hrs |
 | List of Characters | M | 2 hr| 2 hrs |
 | Create Character | H | 3 hr| 3 hrs |
 | Tutorial/Start | M | 2 hr| 2 hrs |
-| Scrapyard | H | 10 hr| 5 hrs |
-| Power Plant | H | 20 hr| 8 hrs |
+| Scrapyard | H | 10 hr| 6 hrs |
+| Power Plant | H | 20 hr| 12 hrs |
 | Smelter | L | 12 hr| x hrs |
 | Crusher | L | 8 hr| x hrs |
 | Factory | L | 12 hr| x hrs |
-| Battler | M | 4 hr| hrs |
-| First Boss | H | 4 hr| hrs |
-| Second Boss | L | 3 hr| hrs |
-| Third Boss | L | 3 hr| hrs |
-| Final Boss | L | 6 hr| hrs |
-| Backend | L | 3 hr| hrs |
+| Battler | M | 4 hr| 6 hrs |
+| First Boss | H | 4 hr| 10 hrs |
+| Second Boss | L | 3 hr| x hrs |
+| Third Boss | L | 3 hr| x hrs |
+| Final Boss | L | 6 hr| x hrs |
+| Backend | L | 3 hr| 6 hrs |
 | Backend: User Data | L | 3 hr| 10 hrs |
 | Backend: Functions | L | 3 hr| x hrs |
-| Total | H | 106.5 hrs|  hrs |
+| Total | H | 106.5 hrs| 62.25 hrs |
+
+I feel like I spent an additional 10-20 hours on this but honestly not sure
 
 | Objective | Day | Actual Day |
 | --- | :---: |  :---: |
@@ -126,12 +128,12 @@ Will have more conponents depending on needs of the App. These are general aspec
 | Basic Structure for Frontend App | 2 | 1 |
 | Create Character | 3 | 2 |
 | Basic Scrapyard | 4 | 6 |
-| Battle Mechanics | 5 |  |
+| Battle Mechanics | 5 | 8 |
 | Powerplant | 7 | 7 |
-| Give Thanks | 8 |  |
-| First Boss | 9 |  |
-| Testing and Bug fixing | 10 |  |
-| Present | 12 |  |
+| Give Thanks | 8 | 8 |
+| First Boss | 9 | 10 |
+| Testing and Bug fixing | 10 | 11 |
+| Present | 12 | 12 |
 
 **Additional Libraries**
 - React
