@@ -124,7 +124,7 @@ I feel like I spent an additional 10-20 hours on this but honestly not sure
 
 | Objective | Day | Actual Day |
 | --- | :---: |  :---: |
-| Firebase DB Setup | 1 |  |
+| Firebase DB Setup | 1 | 5 |
 | Basic Structure for Frontend App | 2 | 1 |
 | Create Character | 3 | 2 |
 | Basic Scrapyard | 4 | 6 |
